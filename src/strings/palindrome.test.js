@@ -19,8 +19,4 @@ describe("palindrome", () => {
         expect(palindrome("father")).toBe(false);
     })
 });
-
-
-
-
-
+  
